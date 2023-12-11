@@ -1,4 +1,4 @@
-# asteroids-game
+# Asteroids Game
 asteroids-game is an exercise using JavaFX to create a simplified version of the classic Asteroids game.
 ## Implementation
 - The movement of the ship and firing of projectiles is controlled using the keyboard listener methods of the JavaFX Scene class
